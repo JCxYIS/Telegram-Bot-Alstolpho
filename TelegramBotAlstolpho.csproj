@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>TelegramBotAlstolpho</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="NHentaiAPI" Version="1.2.0"/>
+    <PackageReference Include="Telegram.Bot" Version="15.2.1"/>
+  </ItemGroup>
+</Project>
